@@ -1,0 +1,4 @@
+>3kvp., score=1.3356, global_score=1.7016, fixed_chains=['B', 'C', 'D', 'E', 'F'], designed_chains=['A'], model_name=ProteinMPNN_epoch130, git_hash=8907e6671bfbfc92303b5f79c4b5e6ce47cdef57, seed=939
+PQPTSFPLEHNHFGVMEDGYIKIYEYNESRNEVKLKKEYADDE
+>T=0.001, sample=1, score=0.5556, global_score=1.5556, seq_recovery=0.6279
+QQPTSFPLEHNHFGVMEDDKIYIFKYDKEKEEVKLLQEYDLNE

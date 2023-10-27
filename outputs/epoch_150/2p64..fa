@@ -1,0 +1,4 @@
+>2p64., score=2.0199, global_score=2.2600, fixed_chains=['B'], designed_chains=['A'], model_name=ProteinMPNN_epoch130, git_hash=8907e6671bfbfc92303b5f79c4b5e6ce47cdef57, seed=620
+AASYEKEKELCVKYFEQWSESDQVEFVEHLISQMCHYQHGHINSYLKPMLQ
+>T=0.001, sample=1, score=0.4765, global_score=1.5014, seq_recovery=0.5490
+GGEAEKEKELCVKYFSQMCHEQKVEFVEELFKQWSEEDHEKIESYLKPMLK

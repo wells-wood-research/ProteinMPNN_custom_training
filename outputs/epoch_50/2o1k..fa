@@ -1,0 +1,4 @@
+>2o1k., score=2.5997, global_score=2.5178, fixed_chains=['B'], designed_chains=['A'], model_name=ProteinMPNN_epoch50, git_hash=8907e6671bfbfc92303b5f79c4b5e6ce47cdef57, seed=89
+IEKQMDRVVKEMRRQLEMIDKLTTREIEQVELLKRIYDKLTVQ
+>T=0.001, sample=1, score=1.1899, global_score=1.8127, seq_recovery=0.1163
+LEELKKKIEELEKKLEELKKEIEKLKEEIEKLKEEIKKLKEEL
